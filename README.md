@@ -3,7 +3,7 @@ by Gabriel Nkole
 
 ## Description
 Demo showcasing first person movement using a character controller.
-Prefabs obtained from the Prototypes library.
+Prefabs obtained from the Prototyping library.
 
 ## Video
 https://github.com/gabriel-nkole/FirstPersonCharacterController/assets/101514971/15a4373c-bc8d-4a39-8378-2c26b52af720
